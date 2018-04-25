@@ -107,4 +107,10 @@ tunl0            36aa96b4-def5-49a8-ab2b-e7807d4b25d8  ip-tunnel       tunl0
 
 -----
 参考
+
 https://github.com/kubernetes/contrib/tree/master/ingress/controllers/nginx/examples/tls
+
+[定制Go Package的Go Get导入路径](https://tonybai.com/2017/06/28/set-custom-go-get-import-path-for-go-package/)
+
+[NGINX Ingress controller configuration ConfigMap](https://github.com/kubernetes/ingress-nginx/blob/master/docs/user-guide/configmap.md)
+
